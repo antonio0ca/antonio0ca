@@ -1,9 +1,9 @@
 <h1 align="center">Olá, eu sou o Antonio 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Full Stack</b> · Análise e Desenvolvimento de Sistemas (FATEC Guaratinguetá)
+  <b>Desenvolvedor Full Stack</b> com foco em <b>desenvolvimento assistido por IA</b>
   <br/>
-  Construindo sistemas web de ponta a ponta — do banco de dados à interface.
+  Sistemas web de ponta a ponta — do banco de dados à interface — potencializados por IA agêntica.
 </p>
 
 <p align="center">
@@ -27,6 +27,7 @@
 - 🔭 Atuo como **Desenvolvedor Full Stack na Splendor O&M**, em uma plataforma de **monitoramento de usinas solares** (coleta de dados via Modbus, API em nuvem e dashboard web).
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **FATEC Guaratinguetá**.
 - 🛠️ Gosto de trabalhar o ciclo completo: **levantamento de requisitos → modelagem de dados → API → interface → deploy**.
+- 🤖 Foco em **desenvolvimento full stack potencializado por IA**, usando agentes como **Claude Code** (Anthropic) e **Google Antigravity** no dia a dia.
 - 🌱 Estudando arquitetura de software, boas práticas de API e IA aplicada.
 - 📫 Como me achar: **antoniocarvdroid@gmail.com**
 
@@ -59,6 +60,11 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Desenvolvimento com IA**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
