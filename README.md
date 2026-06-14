@@ -19,7 +19,7 @@
 ### Sobre mim
 
 - Cursando Análise e Desenvolvimento de Sistemas na FATEC.
-- Envolvido em pesquisa científica na área de IA.
+- Envolvido em pesquisa científica em IA, machine learning e fine tuning.
 - Estudando arquitetura de software e escalabilidade de sistemas com IA.
 - Gosto de trabalhar o ciclo completo: levantamento de requisitos → modelagem de dados → API → interface → deploy.
 - Foco em desenvolvimento full stack potencializado por IA, usando agentes como Claude Code (Anthropic) e Google Antigravity no dia a dia.
