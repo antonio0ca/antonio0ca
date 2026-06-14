@@ -33,5 +33,5 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RAG-5A67D8?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL"/>
 </p>
