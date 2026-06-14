@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  Desenvolvedor Full Stack com foco em desenvolvimento assistido por IA
+  Desenvolvedor Full Stack com foco em desenvolvimento assistido por IA agêntica
   <br/>
-  Sistemas de ponta a ponta, do banco de dados à interface, potencializados por IA agêntica.
+  Aspirante a engenheiro de IA, treinamento e refino de LLMs
 </p>
 
 <p align="center">
