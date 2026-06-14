@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=30&color=2F81F7&center=true&vCenter=true&repeat=false&width=560&height=55&lines=Ol%C3%A1%2C+eu+sou+o+Antonio" alt="Olá, eu sou o Antonio"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=30&color=2F81F7&center=true&vCenter=true&repeat=false&width=480&height=55&lines=Antonio+Carvalho" alt="Antonio Carvalho"/>
 </h1>
 
 <p align="center">
   Desenvolvedor Full Stack com foco em desenvolvimento assistido por IA
   <br/>
-  Sistemas web de ponta a ponta — do banco de dados à interface — potencializados por IA agêntica.
+  Sistemas de ponta a ponta, do banco de dados à interface, potencializados por IA agêntica.
 </p>
 
 <p align="center">
