@@ -37,7 +37,7 @@
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| **[Easy Place](https://github.com/antonio0ca/showcase-projeto-easyplace)** | Sistema **multi-tenant** de gestão de estoque, vendas (PDV) e finanças para varejo, com painel de auditoria separado. Projeto real para um cliente. | React · Node/Express · Prisma · PostgreSQL · Laravel |
+| **[Easy Place](https://github.com/antonio0ca/showcase-projeto-easyplace)** | Sistema **multi-tenant** de gestão de estoque, vendas (PDV) e finanças para varejo, com painel de auditoria separado. Projeto real para um cliente. | React · Node/Express · Neon · Laravel |
 
 ---
 
@@ -57,7 +57,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
