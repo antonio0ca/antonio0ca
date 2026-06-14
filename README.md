@@ -29,5 +29,9 @@
 ### Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,java,php,react,nodejs,fastapi,laravel,tailwind,vite,postgres,docker,git,vercel,postman&perline=8" alt="Tecnologias"/>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,java,php,react,nodejs,fastapi,laravel,tailwind,pytorch,tensorflow,postgres,docker,git&perline=8" alt="Tecnologias"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-5A67D8?style=for-the-badge" alt="RAG"/>
 </p>
